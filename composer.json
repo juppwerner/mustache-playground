@@ -1,0 +1,14 @@
+{
+    "name": "juppwerner/mustache-playgrond",
+    "type": "project",
+    "require-dev": {
+        "bobthecow/mustache-bundle": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Joachim Werner",
+            "email": "joachim.werner@diggin-data.de"
+        }
+    ],
+    "require": {}
+}
