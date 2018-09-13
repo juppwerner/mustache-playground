@@ -11,3 +11,12 @@ $ git clone https://github.com/juppwerner/mustache-playground.git
 cd mustache-playground
 composer install
 ```
+## Usage
+
+Open the project directory in your browser, e.g.:
+
+http://localhost/mustache-php
+
+You will see 
+
+![Screenshot](doc/screenshot.png "Screenshot of the playground interface")
