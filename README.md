@@ -19,4 +19,4 @@ http://localhost/mustache-php
 
 You will see 
 
-![Screenshot](doc/screenshot.png "Screenshot of the playground interface")
+![Screenshot](https://raw.githubusercontent.com/juppwerner/mustache-playground/master/doc/screenshot.png "Screenshot of the playground interface")
